@@ -3,7 +3,7 @@ name: Deploy JupyterLite site
 on:
   push:
     branches:
-      - main   # only trigger when pushing to main
+      - main   # runs only when you push to main
 
 jobs:
   build:
@@ -23,7 +23,7 @@ jobs:
 
       - name: Build JupyterLite site
         run: |
-          jupyter lite build --contents content
+          jupyter lite build --contents content --output-dir _output
 
       - name: Publish to GitHub Pages
         run: |
