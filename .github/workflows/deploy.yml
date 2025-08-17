@@ -3,28 +3,29 @@ name: Deploy JupyterLite site
 on:
   push:
     branches:
-      - main   # runs only when you push to main
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v3
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.10"
+          python-version: '3.10'
 
-      - name: Install JupyterLite
+      - name: Install JupyterLite with Pyodide
         run: |
-          pip install "jupyterlite[all]" ghp-import
+          pip install "jupyterlite[all]" jupyterlite-pyodide-kernel ghp-import
 
       - name: Build JupyterLite site
         run: |
-          jupyter lite build --contents content --output-dir _output
+          jupyter lite build --contents ./content --output-dir _output
 
-      - name: Publish to GitHub Pages
+      - name: Deploy to gh-pages
         run: |
           ghp-import -n -p -f _output
