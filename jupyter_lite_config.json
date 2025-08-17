@@ -1,0 +1,7 @@
+{
+  "jupyterlite_config": {
+    "contents": "content",
+    "apps": ["lab"]
+  }
+}
+
