@@ -1,7 +1,9 @@
 {
   "jupyterlite_config": {
+    "apps": ["lab"],
     "contents": "content",
-    "apps": ["lab"]
+    "litePlugins": {
+      "@jupyterlite/pyodide-kernel-extension": true
+    }
   }
 }
-
