@@ -1,0 +1,31 @@
+name: Deploy JupyterLite site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install JupyterLite
+        run: |
+          pip install "jupyterlite[all]" ghp-import
+
+      - name: Build JupyterLite site
+        run: |
+          jupyter lite build --output-dir _output
+
+      - name: Deploy to GitHub Pages
+        run: |
+          ghp-import -n -p -f _output
+
