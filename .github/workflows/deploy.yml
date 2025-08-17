@@ -3,7 +3,7 @@ name: Deploy JupyterLite site
 on:
   push:
     branches:
-      - main
+      - main   # only trigger when pushing to main
 
 jobs:
   build:
