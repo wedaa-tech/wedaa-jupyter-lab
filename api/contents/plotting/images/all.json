@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-08-22T04:46:46.703437Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-08-22T04:46:26.714279Z",
+      "mimetype": "image/png",
+      "name": "four_plot.png",
+      "path": "plotting/images/four_plot.png",
+      "size": 54760,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-08-22T04:46:46.703437Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-08-22T04:46:46.703437Z",
+  "mimetype": null,
+  "name": "images",
+  "path": "plotting/images",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

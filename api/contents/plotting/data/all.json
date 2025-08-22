@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-08-22T04:46:46.702437Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-08-22T04:46:26.714279Z",
+      "mimetype": "text/plain",
+      "name": "kohli.txt",
+      "path": "plotting/data/kohli.txt",
+      "size": 851,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-08-22T04:46:46.703437Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-08-22T04:46:26.714279Z",
+      "mimetype": "text/plain",
+      "name": "sachin.txt",
+      "path": "plotting/data/sachin.txt",
+      "size": 1731,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-08-22T04:46:46.702437Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-08-22T04:46:26.714279Z",
+      "mimetype": "text/plain",
+      "name": "data.txt",
+      "path": "plotting/data/data.txt",
+      "size": 5000,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-08-22T04:46:46.703437Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-08-22T04:46:46.703437Z",
+  "mimetype": null,
+  "name": "data",
+  "path": "plotting/data",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
