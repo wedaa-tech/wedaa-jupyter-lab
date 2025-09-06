@@ -1,0 +1,10 @@
+{
+  "jupyter-lite-schema-version": 0,
+  "jupyter-lite-schema-urls": [
+    "https://jupyterlite.readthedocs.io/en/latest/_static/lab/schema/config.v0.json"
+  ],
+  "jupyterlite_config": {
+    "apps": ["lab"],
+    "contents": "content"
+  }
+}
