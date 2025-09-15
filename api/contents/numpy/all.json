@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-09-15T05:34:49.946262Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-15T05:34:28.095342Z",
+      "mimetype": null,
+      "name": "numpy_notes.ipynb",
+      "path": "numpy/numpy_notes.ipynb",
+      "size": 2447,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-09-15T05:34:49.946262Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-09-15T05:34:49.946262Z",
+  "mimetype": null,
+  "name": "numpy",
+  "path": "numpy",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-09-15T05:34:49.945262Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-15T05:34:28.095342Z",
+      "mimetype": null,
+      "name": "01_excercise.ipynb",
+      "path": "excercise/01_excercise.ipynb",
+      "size": 4074,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-09-15T05:34:49.945262Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-09-15T05:34:49.945262Z",
+  "mimetype": null,
+  "name": "excercise",
+  "path": "excercise",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
