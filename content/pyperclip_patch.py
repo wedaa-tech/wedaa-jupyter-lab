@@ -1,20 +1,25 @@
 import asyncio
 import js
+
+# ensure pyperclip is available
+import micropip
+await micropip.install("pyperclip")
+
 import pyperclip
 
-# Define async paste
+# async paste helper
 async def _paste_async():
     return await js.navigator.clipboard.readText()
 
-# Define sync wrappers
+# wrappers
 def copy_js(text: str):
     js.navigator.clipboard.writeText(text)
 
 def paste_js():
     return asyncio.get_event_loop().run_until_complete(_paste_async())
 
-# Monkey-patch pyperclip
+# patch pyperclip
 pyperclip.copy = copy_js
 pyperclip.paste = paste_js
 
-print("✅ pyperclip patched to use browser clipboard API in JupyterLite")
+print("✅ pyperclip installed & patched for JupyterLite")
