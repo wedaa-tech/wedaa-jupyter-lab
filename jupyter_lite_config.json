@@ -5,6 +5,9 @@
   ],
   "jupyterlite_config": {
     "apps": ["lab"],
-    "contents": "content"
+    "contents": "content",
+    "pyodide": {
+      "requirements": ["pyperclip"]
+    }
   }
 }

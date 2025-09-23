@@ -1,0 +1,11 @@
+{
+  "NotebookApp": {
+    "extra_template_paths": [],
+    "nbserver_extensions": {},
+    "tornado_settings": {},
+    "contents_manager_class": "jupyter_server.services.contents.largefilemanager.LargeFileManager",
+    "preload_scripts": [
+      "./content/pyperclip_patch.py"
+    ]
+  }
+}
