@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-09-27T06:49:07.346939Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-27T06:48:43.035631Z",
+      "mimetype": null,
+      "name": "pandas_practice.ipynb",
+      "path": "pandas/pandas_practice.ipynb",
+      "size": 3170,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-09-27T06:49:07.345939Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-27T06:49:07.345939Z",
+      "mimetype": null,
+      "name": "data",
+      "path": "pandas/data",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2025-09-27T06:49:07.346939Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-09-27T06:49:07.346939Z",
+  "mimetype": null,
+  "name": "pandas",
+  "path": "pandas",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

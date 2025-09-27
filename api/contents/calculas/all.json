@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-09-27T06:49:07.323939Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-27T06:48:43.020631Z",
+      "mimetype": "application/pdf",
+      "name": "Calculus Basics.pdf",
+      "path": "calculas/Calculus Basics.pdf",
+      "size": 65931,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-09-27T06:49:07.324939Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-27T06:48:43.020631Z",
+      "mimetype": "application/pdf",
+      "name": "Calculus_Basics_CheatSheet.pdf",
+      "path": "calculas/Calculus_Basics_CheatSheet.pdf",
+      "size": 3243,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-09-27T06:49:07.324939Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-27T06:48:43.020631Z",
+      "mimetype": "text/markdown",
+      "name": "calculus_basics.md",
+      "path": "calculas/calculus_basics.md",
+      "size": 3383,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-09-27T06:49:07.324939Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-09-27T06:49:07.324939Z",
+  "mimetype": null,
+  "name": "calculas",
+  "path": "calculas",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
