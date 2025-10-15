@@ -7,7 +7,16 @@
     "apps": ["lab"],
     "contents": "content",
     "pyodide": {
-      "requirements": ["pyperclip"]
+      "requirements": [
+        "pyperclip",
+        "pandas",
+        "numpy",
+        "matplotlib",
+        "scikit-learn",
+        "openpyxl",
+        "seaborn",
+        "statsmodels"
+      ]
     }
   }
 }
