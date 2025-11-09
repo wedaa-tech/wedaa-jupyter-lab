@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-11-09T11:54:31.519762Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-11-09T11:54:11.705786Z",
+      "mimetype": "text/csv",
+      "name": "sslc_small.csv",
+      "path": "pandas/data/sslc_small.csv",
+      "size": 1910,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-11-09T11:54:31.518762Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-11-09T11:54:11.705786Z",
+      "mimetype": "text/csv",
+      "name": "sample_data.csv",
+      "path": "pandas/data/sample_data.csv",
+      "size": 375,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-11-09T11:54:31.519762Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-11-09T11:54:31.519762Z",
+  "mimetype": null,
+  "name": "data",
+  "path": "pandas/data",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

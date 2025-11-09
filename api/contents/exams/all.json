@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-11-09T11:54:31.497762Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-11-09T11:54:11.688787Z",
+      "mimetype": null,
+      "name": "Praveen_Mishra.ipynb",
+      "path": "exams/Praveen_Mishra.ipynb",
+      "size": 75937,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-11-09T11:54:31.497762Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-11-09T11:54:31.497762Z",
+  "mimetype": null,
+  "name": "exams",
+  "path": "exams",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

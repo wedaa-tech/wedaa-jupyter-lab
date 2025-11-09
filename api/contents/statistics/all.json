@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-11-09T11:54:31.540762Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-11-09T11:54:11.721786Z",
+      "mimetype": null,
+      "name": "percentile.ipynb",
+      "path": "statistics/percentile.ipynb",
+      "size": 1262,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-11-09T11:54:31.541762Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-11-09T11:54:11.722786Z",
+      "mimetype": null,
+      "name": "statistics_notes.ipynb",
+      "path": "statistics/statistics_notes.ipynb",
+      "size": 7848,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-11-09T11:54:31.539762Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-11-09T11:54:11.721786Z",
+      "mimetype": null,
+      "name": "median.ipynb",
+      "path": "statistics/median.ipynb",
+      "size": 1259,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-11-09T11:54:31.540762Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-11-09T11:54:11.722786Z",
+      "mimetype": null,
+      "name": "statistics.ipynb",
+      "path": "statistics/statistics.ipynb",
+      "size": 85156,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-11-09T11:54:31.541762Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-11-09T11:54:31.541762Z",
+  "mimetype": null,
+  "name": "statistics",
+  "path": "statistics",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
